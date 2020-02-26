@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploSQLite</string>
+    <string name="jose">Jose</string>
+    <string name="telefono">Telefono:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="title_activity_main2">Main2</string>
+</resources>
